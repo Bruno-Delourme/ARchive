@@ -1,11 +1,11 @@
 # Compétences nécessaires
 
-## Développement AR/VR 
+## Développement AR/VR
 
 - Connaissance des SDK de réalité augmentée (AR) et virtuelle (VR), comme OpenXR ou les APIs spécifiques à Meta (anciennement Oculus).
 - Compréhension des principes d'AR tels que le tracking, le mapping spatial, et l'interaction utilisateur.
 
-## Reconnaissance d'objets et vision par ordinateur 
+## Reconnaissance d'objets et vision par ordinateur
 
 - Compétences en machine learning et computer vision pour détecter les objets (livres dans ton cas).
 - Connaissance des outils comme TensorFlow Lite, PyTorch, ou des bibliothèques spécifiques comme OpenCV.
