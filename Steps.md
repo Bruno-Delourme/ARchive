@@ -2,15 +2,13 @@
 
 ## 1. Création d'un nouveau projet 3D dans Unity
 ### Actions :
-- Ouvrir Unity Hub
-- Créer un nouveau projet en sélectionnant le template 3D
-- Nommer le projet : ARchive
+- Créeation du nouveau projet IRP
+- Nom du projet : ARchive
 
 ## 2. Ajout du plugin Oculus Integration
 ### Actions :
-- Accéder à l'Asset Store intégré à Unity
-- Importer le plugin Oculus Integration
-- Vérifier les options disponibles via le menu Tools > Oculus, notamment pour l'"Eye Tracking"
+- Importation du plugin Oculus Integration
+- Vérification des options disponibles via le menu Tools > Oculus, pour l'"Eye Tracking"
 
 ## 3. Configuration des Player Settings
 ### Actions :
@@ -18,7 +16,7 @@
 - Activer OpenXR pour gérer la compatibilité avec le Meta Quest 3
 - Dans Player Settings :
   - Configurer l'option Stereo Rendering Mode sur Single Pass Instanced pour optimiser les performances
-  - Activer Oculus Quest comme appareil cible
+  - Activation Oculus Quest comme appareil cible
   - S'assurer que l'application fonctionne à 72 FPS ou plus
 
 ## 4. Ajout du eye tracking et des interactions digitales
